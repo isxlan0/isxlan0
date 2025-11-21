@@ -21,12 +21,6 @@
   </picture>
 </div>
 
-<!-- 动态访客数 + LeetCode + 博客浏览量（超稳）-->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isxLano&label=PROFILE+VIEWS&color=00ffea&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=leetcode&label=LeetCode&url=https%3A%2F%2Fleetcode-badge.lipku.com%2Fapi%2Fusers%2Fisxlano&query=%24.solved%2F%24.total&color=00ffea&labelColor=0d1117&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://vists.lipku.com/api?isxLano.top&query=$.data.total&label=BLOG+VIEWS&color=00ffea&style=flat-square" alt="blog views" />
-</div>
 
 <br/>
 
