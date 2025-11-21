@@ -1,6 +1,21 @@
-<!-- 二次元论坛一言（你指定的超级稳接口，每天自动换）-->
 <div align="center">
-  <img src="https://hitokoto-api.ecylt.com/api/hitokoto/svg?color=00FFEA&font=Fira%20Code&size=44" width="960" alt="一言" />
+
+<!-- 纯文本一言（来自二次元论坛，每天自动换）-->
+<img src="https://img.xjh.me/random_img.php?return=svg" height="1" width="1" style="display:none"/>
+
+**<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=isxlan0.isxlan0" alt="visitors"/> </p>**
+
+<script src="https://cdn.jsdelivr.net/gh/ElainaFanBot/Elaina@master/hitokoto.js"></script>
+<div id="hitokoto"><a href="#" id="hitokoto_text">加载中...</a></div>
+<script>
+    getHitokoto();
+</script>
+
+<br/>
+
+<!-- 你的9个技能图标 -->
+<img src="https://skillicons.dev/icons?i=python,c,cpp,photoshop,windows,visualstudio,vscode,github,git&perline=10&theme=dark" />
+
 </div>
 
 <br/>
@@ -52,5 +67,4 @@
 <!-- 结尾二次元彩蛋 -->
 <div align="center">
   <img src="https://media.giphy.com/media/2wTaRFUhMvsQvO4J2j/giphy.gif" width="180"/>
-  <p><i>「就算世界与我为敌，我也要写出最漂亮的代码」</i></p>
 </div>
