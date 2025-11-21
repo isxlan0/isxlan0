@@ -1,24 +1,4 @@
-<div align="center">
 
-<!-- 纯文本一言（来自二次元论坛，每天自动换）-->
-<img src="https://img.xjh.me/random_img.php?return=svg" height="1" width="1" style="display:none"/>
-
-**<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=isxlan0.isxlan0" alt="visitors"/> </p>**
-
-<script src="https://cdn.jsdelivr.net/gh/ElainaFanBot/Elaina@master/hitokoto.js"></script>
-<div id="hitokoto"><a href="#" id="hitokoto_text">加载中...</a></div>
-<script>
-    getHitokoto();
-</script>
-
-<br/>
-
-<!-- 你的9个技能图标 -->
-<img src="https://skillicons.dev/icons?i=python,c,cpp,photoshop,windows,visualstudio,vscode,github,git&perline=10&theme=dark" />
-
-</div>
-
-<br/>
 
 <!-- 你的专属9个技能图标 -->
 <div align="center">
