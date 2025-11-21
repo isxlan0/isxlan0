@@ -1,25 +1,21 @@
-<!-- 语言统计（超帅 donut 3D donut）-->
 <div align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isxlan0&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=00ffea&text_color=ffffff&border_radius=20" />
 </div>
 
 <br/>
 
-<!-- GitHub Stats 主卡片 -->
 <div align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=isxlan0&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=00b7ff&text_color=ffffff&border_radius=20&include_all_commits=true&count_private=true" />
 </div>
 
 <br/>
 
-<!-- 贡献连击 Streak（2025最稳如老狗）-->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=isxlan0&theme=react&hide_border=true&background=0d1117&stroke=00FFEA&ring=00FFEA&fire=FF2D95&currStreakLabel=00FFEA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00FFEA" />
 </div>
 
 <br/>
 
-<!-- 访客数 + 社交（赛博霓虹风）-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isxlan0&label=PROFILE+VIEWS&color=00FFEA&style=for-the-badge" />
   
@@ -35,13 +31,6 @@
 
 <br/>
 
-<!-- 结尾二次元彩蛋 -->
-<div align="center">
-  <img src="https://media.giphy.com/media/2wTaRFUhMvsQvO4J2j/giphy.gif" width="180"/>
-</div>
-
-
-<!-- 你的专属9个技能图标 -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,photoshop,windows,visualstudio,vscode,github,git&perline=10&theme=dark" alt="My Skills" />
 </div>
