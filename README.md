@@ -1,12 +1,3 @@
-
-
-<!-- 你的专属9个技能图标 -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,photoshop,windows,visualstudio,vscode,github,git&perline=10&theme=dark" alt="My Skills" />
-</div>
-
-<br/><br/>
-
 <!-- 语言统计（超帅 donut 3D donut）-->
 <div align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isxlan0&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=00ffea&text_color=ffffff&border_radius=20" />
@@ -48,3 +39,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/2wTaRFUhMvsQvO4J2j/giphy.gif" width="180"/>
 </div>
+
+
+<!-- 你的专属9个技能图标 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,photoshop,windows,visualstudio,vscode,github,git&perline=10&theme=dark" alt="My Skills" />
+</div>
+
+<br/><br/>
