@@ -1,54 +1,41 @@
-<!-- 超大动态打字 + 霓虹光效标题 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&color=00FFEA&center=true&vCenter=true&random=false&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+isxLano;AI+%7C+Full-Stack+%7C+Cyberpunk+Coder;%E6%AD%BB%E5%9C%A8%E4%BB%A3%E7%A0%81%E9%87%8C%E7%9A%84%E9%AC%BC%EF%BC%8C%E4%B9%9F%E8%A6%81%E5%86%99%E5%BE%97%E6%BC%82%E4%BA%AE;Welcome+to+my+Matrix+%F0%9F%94%B4" alt="Typing SVG" />
-</div>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=4000&pause=1000&color=00EAFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B+I'm+isxLano;%E8%B8%A9%E7%82%B9%E7%9A%84%E9%AB%98%E6%89%8B+%7C+AI+%7C+Full-Stack;Code+or+Die.&repeat=false" />
 
-<!-- 超帅霓虹 Stats 卡片（透明 + 发光边框）-->
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=isxLano&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=00b7ff&text_color=ffffff&border_radius=16&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isxLano&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00ffea&text_color=ffffff&border_radius=16&langs_count=10" />
-</div>
+<br>
 
-<br/>
+<!-- 最新最稳 Stats（react-dark 主题 + 发光边框）-->
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=isxLano&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00eaff&icon_color=00eaff&text_color=ffffff&bg_color=0d1117&border_radius=20" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isxLano&theme=react&hide_border=true&layout=donut-vertical&langs_count=8&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_radius=20" />
 
-<!-- 超长贪吃蛇（彩虹霓虹版，永不炸）-->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isxLano/isxLano/output/github-snake-dark.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isxLano/isxLano/output/github-snake.svg" />
-  </picture>
-</div>
+<br><br>
 
+<!-- 2025年最新贪吃蛇（永不炸） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isxLano/isxLano/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/isxLano/isxLano/output/snake.svg" />
+</picture>
 
-<br/>
+<br><br>
 
-<!-- 技能图标墙（3D 霓虹呼吸灯效果）-->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,k8s,aws,gcp,nginx,redis,mysql,postgres,prisma,react,nextjs,vue,svelte,tailwind,nodejs,express,nestjs,go,rust,python,neovim,vscode,figma,photoshop,blender&perline=14&theme=dark" />
-</div>
+<!-- 动态徽章区（全部最新最稳链接）-->
+<img src="https://komarev.com/ghpvc/?username=isxLano&color=00eaff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/isxLano?label=Followers&style=for-the-badge&color=00eaff" />
+<img src="https://badges.pufler.dev/repos/isxLano?style=for-the-badge&color=00eaff" />
 
-<br/>
+<br><br>
 
-<!-- 实时 Spotify 正在听（超炫！）-->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=你的Spotify用户ID&count=1&unique=false" width="500" />
-</div>
+<!-- 超帅3D技能墙（最新版 -->
+<img src="https://techstack-generator.vercel.app/?icons=git,github,docker,kubernetes,aws,nginx,react,nextjs,tailwind,nodejs,go,rust,python,neovim&theme=dark" height="60" />
 
-<!-- 社交图标（赛博朋克风）-->
-<div align="center">
-  <a href="https://twitter.com/你的推特"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://space.bilibili.com/你的B站ID"><img src="https://img.shields.io/badge/Bilibili-E0245E?style=flat-square&logo=bilibili&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://juejin.cn/user/你的掘金ID"><img src="https://img.shields.io/badge/掘金-007FFF?style=flat-square&logo=jinse&labelColor=0d1117" /></a>
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-ff0066?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-</div>
+<br><br>
 
-<br/>
+<!-- 实时Spotify（超炫） -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=你的spotifyID&count=2" width="480" />
 
-<!-- 结尾彩蛋 + 动态 GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <p><strong><i>「代码就是我的光剑，bug 就是我的黑暗面」</i></strong></p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FisxLano&count_bg=%2300FFEA&title_bg=%230D1117&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+<br><br>
+
+<img src="https://media.giphy.com/media/SCtAPd1B3Wv3nZ1N7P/giphy.gif" width="150"/>
+<p><i>“我不是在加班，我是在和宇宙对线”</i></p>
+
 </div>
